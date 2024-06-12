@@ -1,12 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=thienle210303&abbreviated=true)
 
-Welcome to my Github 
+<h1> Welcome to my Github </h1> 
 
-My name is Thien Le. My name is sound like letter T. I'm from Vietnam
-
-Major is Computer Science  and minor is Cybersecurity Operations
-
-I'm studying in University of South Carolina
+<ul>
+  <li>My name is Thien Le. My name is sound like letter T. I'm from Vietnam </li>
+  <li>Major is Computer Science  and minor is Cybersecurity Operations</li>
+  <li>I'm studying in University of South Carolina</li>
+</ul>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienle210303&show_icons=true&theme=tokyonight)
 
