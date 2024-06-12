@@ -8,10 +8,5 @@ Major is Computer Science  and minor is Cybersecurity Operations
 
 I'm studying in University of South Carolina
 
-Documentation - Jan 2024
 
-
-[resume.pdf](https://github.com/thienle210303/thienle210303/files/13957021/LE_THIEN_resume.pdf)
-
-
-[transcript.pdf](https://github.com/thienle210303/thienle210303/files/13915000/LE_THIEN_Transcript.pdf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thienle210303&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
