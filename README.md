@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?thienle210303=thienle210303)
+![](https://komarev.com/ghpvc/?username=thienle210303)
 
 Welcome to my Github 
 
