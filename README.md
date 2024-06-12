@@ -7,7 +7,6 @@
   <li>Major is Computer Science  and minor is Cybersecurity Operations</li>
   <li>I'm studying in University of South Carolina</li>
 </ul>
-
 <h2></h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienle210303&show_icons=true&theme=tokyonight)
