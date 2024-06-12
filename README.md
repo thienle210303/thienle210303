@@ -8,6 +8,8 @@
   <li>I'm studying in University of South Carolina</li>
 </ul>
 
+<h2></h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienle210303&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thienle210303&layout=compact)
