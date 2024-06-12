@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?thienle210303=thienle210303)
+
 Welcome to my Github 
 
 My name is Thien Le. My name is sound like letter T. I'm from Vietnam
