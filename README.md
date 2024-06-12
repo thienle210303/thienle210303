@@ -8,5 +8,5 @@ Major is Computer Science  and minor is Cybersecurity Operations
 
 I'm studying in University of South Carolina
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienle210303&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienle210303&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thienle210303&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
